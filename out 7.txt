@@ -1,0 +1,81 @@
+7.2: program that input 5 digits from user and store in array
+enter a number2
+enter a number4
+enter a number5
+enter a number6
+enter a number7
+array is=
+[2, 4, 5, 6, 7]
+
+7.3: program that input 5 digits from user and store in array and display sum and average
+enter a number2
+enter a number3
+enter a number4
+enter a number5
+enter a number6
+sum is 20
+avr=4.0
+
+7.4:that input day and month calculate t0tal number of days
+enter day number :1
+enter month : 8
+total number of days = 213
+
+7.5: write a program that input the age of diff person and print number of people
+enter number of people : 3
+enter age of person : 22
+enter age of person : 55
+enter age of person : 60
+2 persons between 50 to 60
+
+7.7: write a program that input ten number from user and diplay max
+Enter value :2
+Enter value :3
+Enter value :4
+Enter value :5
+Enter value :3
+Enter value :44
+Enter value :234
+Enter value :43
+Enter value :32
+Enter value :23
+Maximum value : 234
+
+7.8: write a program that input numbers from user and diplay minimum number
+Enter value :12
+Enter value :34
+Enter value :54
+Enter value :6
+Enter value :7
+Enter value :88
+Enter value :65
+Enter value :4
+Enter value :5
+Enter value :3
+mimimum value : 3
+
+7.9: write a program that input number and display in reverse order
+Enter value :1
+Enter value :2
+Enter value :4
+Enter value :5
+Enter value :2
+Enter value :7
+The array in actual order
+ 1
+ 2
+ 4
+ 5
+ 2
+ 7
+reverse value is
+7
+2
+5
+4
+2
+
+7.10: write a program that search number in array
+Enter value :30
+Value found at index 2
+Press any key to continue . . .
